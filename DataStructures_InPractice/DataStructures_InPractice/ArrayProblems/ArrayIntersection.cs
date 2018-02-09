@@ -57,6 +57,7 @@ namespace DataStructures_InPractice
             }
 
             Console.WriteLine("UNION WITHOUT USING LIBRARY FUNCTION");
+
             foreach (var item in hs)
             {
                 Console.WriteLine(item);

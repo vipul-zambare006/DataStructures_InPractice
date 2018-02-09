@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DataStructures_InPractice.ProgrammingTest;
+using DataStructures_InPractice.SortingAlgorithms;
+using System;
 using System.Collections.Generic;
 
 namespace DataStructures_InPractice
@@ -14,6 +16,13 @@ namespace DataStructures_InPractice
             //else
             //    Console.WriteLine("Brackets not matching");
             //Console.ReadKey();
+
+            /////////////////  ***********SORTING***************** ////////////////
+            BubbleSort.sort();
+
+
+            /**** Random number ****/
+            RandomNumberGenerator.process();
 
             //****** ARRAY INTERSECTION ****////
             ArrayIntersection.printIntersection();

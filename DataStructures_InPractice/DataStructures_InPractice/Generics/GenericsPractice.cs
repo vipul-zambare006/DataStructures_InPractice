@@ -75,6 +75,11 @@ namespace DataStructures_InPractice
             //cars.All(x => x.Name != null);
             //cars.
         }
+
+        public static void studyIListVsList()
+        {
+
+        }
     }
 }
 
